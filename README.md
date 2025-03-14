@@ -11,4 +11,4 @@ This repository contains the detailed report for the Group’s Health Center Sol
 6. [Software Test Plan](#software-test-plan)
 
 ## Project Definition
-[Link to Project Definition](#project-definition)
+[https://github.com/Elideniss/health-center-phase2-report/blob/main/project-definition.md](#project-definition)
